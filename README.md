@@ -90,8 +90,6 @@
 </p>
 
 ---
-
-
 <!-- Quote or Fun Footer -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Quality+is+never+an+accident.;It+is+always+the+result+of+intelligent+effort.;Happy+Testing!;Open+to+collaboration+and+QA+opportunities."/>
