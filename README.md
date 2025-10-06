@@ -31,7 +31,7 @@
 - 🌱 Currently learning **Performance Testing, Security Testing, and CI/CD best practices**.
 - 👨‍💻 All my QA projects are available at [My GitHub Repositories](https://github.com/rashmi-rightmo?tab=repositories)
 - 💬 Ask me about **Selenium, Cypress, API Automation, JMeter, Postman, CI/CD pipelines**
-- 📫 Reach me at **rashmi.rightmo@gmail.com**
+- 📫 Reach me at **rashmisawbhagya@gmail.com**
 - ⚡ Fun fact: I love mentoring, sharing QA knowledge, and promoting quality-first culture!
 
 ---
@@ -50,7 +50,7 @@
 
 | Area               | Tools & Technologies                               |
 |--------------------|---------------------------------------------------|
-| **Automation**     | Selenium · Cypress · Playwright · Appium           |
+| **Automation**     | Selenium · Cypress · Playwright ·          |
 | **API Testing**    | Postman · REST Assured · Karate                    |
 | **CI/CD**          | GitHub Actions · Jenkins · GitLab CI               |
 | **Reporting**      | Allure · ExtentReports · TestRail · Zephyr         |
